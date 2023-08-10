@@ -1,1 +1,1 @@
-web: python instafix.py
+web: poetry install
