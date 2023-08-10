@@ -1,0 +1,8 @@
+tenacity
+esprima
+httpx
+pyvips
+sentry-sdk
+fastapi
+diskcache
+selectolax
